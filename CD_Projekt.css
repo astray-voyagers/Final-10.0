@@ -1,0 +1,30 @@
+.bgimg-1 {
+  background-image: url("https://images4.alphacoders.com/708/708437.jpg");
+  /* background-image: url("https://www.cdprojekt.com/en/wp-content/uploads-en/2017/06/cdp_logo.jpg"); */
+  min-height: 100%;
+}
+
+.bgimg-2 {
+  background-image: url("https://images7.alphacoders.com/483/483921.png");
+  min-height: 85%;
+}
+
+.bgimg-3 {
+  background-image: url("https://images5.alphacoders.com/927/927025.png");
+  min-height: 85%;
+}
+
+.no-bgimg{
+    min-height: 90%;
+}
+
+
+span.border:hover{
+  background-color: #2d89ef;
+  text-decoration: none;
+}
+
+
+span.border:hover a{
+  color: white;
+}
