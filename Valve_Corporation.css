@@ -1,0 +1,29 @@
+.bgimg-1 {
+  background-image: url("https://vignette.wikia.nocookie.net/half-life/images/9/9b/LostCoast.jpg/revision/latest?cb=20100328132207&path-prefix=en");
+  min-height: 100%;
+}
+
+.bgimg-2 {
+  background-image: url("https://images.alphacoders.com/522/thumb-1920-522959.jpg");
+  min-height: 85%;
+}
+
+.bgimg-3 {
+  background-image: url("https://images2.alphacoders.com/688/688395.jpg");
+  min-height: 85%;
+}
+
+.no-bgimg{
+    min-height: 90%;
+}
+
+
+span.border:hover{
+  background-color: #fa6800;
+  text-decoration: none;
+}
+
+
+span.border:hover a{
+  color: black;
+}

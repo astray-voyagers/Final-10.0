@@ -1,11 +1,15 @@
 .bgimg-1 {
-  background-image: url("https://images4.alphacoders.com/708/708437.jpg");
-  /* background-image: url("https://www.cdprojekt.com/en/wp-content/uploads-en/2017/06/cdp_logo.jpg"); */
+  background-image: url("https://stmed.net/sites/default/files/super-mario-galaxy-hd-wallpapers-33721-1274753.jpg");
   min-height: 100%;
+   transform:scaleX(-1);
+}
+
+.BoxFullSpan{
+
 }
 
 .bgimg-2 {
-  background-image: url("https://images7.alphacoders.com/483/483921.png");
+  background-image: url("https://i.ytimg.com/vi/8u5Sb3xvfpU/maxresdefault.jpg");
   min-height: 85%;
 }
 
@@ -20,7 +24,7 @@
 
 
 span.border:hover{
-  background-color: #c62828;
+  background-color: #2d89ef;
   text-decoration: none;
 }
 

@@ -1,0 +1,26 @@
+.bgimg-1 {
+  background-image: url("https://images8.alphacoders.com/100/thumb-1920-1004768.jpg");
+  min-height: 100%;
+}
+
+.bgimg-2 {
+  background-image: url("https://images2.alphacoders.com/746/thumb-1920-746194.jpg");
+  min-height: 85%;
+}
+
+.bgimg-3 {
+  background-image: url("https://i.ytimg.com/vi/DL0_n6fN9q0/maxresdefault_live.jpg");
+  min-height: 85%;
+}
+
+
+
+span.border:hover{
+  background-color: #F06292;
+  text-decoration: none;
+}
+
+
+span.border:hover a{
+  color: white;
+}

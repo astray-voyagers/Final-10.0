@@ -1,0 +1,28 @@
+.bgimg-1 {
+  background-image: url("https://teamninja-studio.com/doa6/us/images/characters/ss-nico002.jpg");
+  min-height: 100%;
+  transform: scaleX(-1);
+}
+
+.bgimg-2 {
+  background-image: url("https://images5.alphacoders.com/634/634371.jpg");
+  min-height: 85%;
+}
+
+.bgimg-3 {
+  background-image: url("https://images3.alphacoders.com/907/thumb-1920-90719.jpg");
+  min-height: 85%;
+}
+
+
+
+
+span.border:hover{
+  background-color: #29B6F6;
+  text-decoration: none;
+}
+
+
+span.border:hover a{
+  color: white;
+}

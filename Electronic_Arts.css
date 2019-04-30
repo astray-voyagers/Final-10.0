@@ -1,0 +1,22 @@
+body, html {
+  background-color: #1d1d1d;
+}
+.bgimg-1 {
+  background-image: url("https://images7.alphacoders.com/901/901848.jpg");
+  min-height: 100%;
+  transform: scaleX(-1);
+}
+
+.bgimg-2 {
+  background-image: url("https://images5.alphacoders.com/926/926637.jpg");
+  min-height: 85%;
+}
+
+.bgimg-3 {
+  background-image: url("https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/apex-featured-image-16x9.jpg.adapt.crop191x100.1200w.jpg");
+  min-height: 85%;
+}
+
+.no-bgimg{
+    min-height: 90%;
+}
